@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionpalidate",
+        "uuid": 6406420,
+        "checksum": "ga1glj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
